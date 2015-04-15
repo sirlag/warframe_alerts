@@ -1,5 +1,6 @@
 Warframe Alerts
 =======
+[![Build Status](https://travis-ci.org/sirlag/warframe_alerts.svg?branch=master)](https://travis-ci.org/sirlag/warframe_alerts)
 
 Warframe Alerts is a library, programmed rust, designed to give easy access to the warframe alerts api. This library only wraps around publicly avalible data, but is compatible with both ps4 and pc alert feeds.
 
