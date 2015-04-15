@@ -1,5 +1,5 @@
 language: rust
 
 rust: 
-- beta
+- 1.0.0-beta
 - nightly
